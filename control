@@ -1,0 +1,8 @@
+Package: com.khronos31.pbcopy
+Name: pbcopy
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Copy data from STDIN to the clipboard.
+Maintainer: Khronos31
+Author: Khronos31
+Section: Utilities
